@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sequoia Restaurant</string>
+
+    <string name="address">1600 Amphitheatre Parkway Mountain View, CA 94043</string>
+    <string name="facebook_page">Our Facebook Page</string>
+    <string name="phone_num"><![CDATA[Tel & fax: +202 2735 6050]]></string>
+</resources>
